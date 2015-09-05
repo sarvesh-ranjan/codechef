@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440850183 source:/Users/saranjan/workspace/codechef/tree/main.cpp
+	<iostream>
+	<cstdlib>
+	<stddef.h>
+

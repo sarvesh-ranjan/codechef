@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441799993 source:/Users/saranjan/workspace/codechef/lis2/main.cpp
+	<vector>
+	<iostream>
+	<cstdio>
+

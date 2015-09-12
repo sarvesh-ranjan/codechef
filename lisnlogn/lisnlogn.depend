@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441714956 source:/Users/saranjan/workspace/codechef/lisnlogn/main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<vector>
+

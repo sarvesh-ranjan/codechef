@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441562422 source:/Users/saranjan/workspace/codechef/CIELAB/main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+

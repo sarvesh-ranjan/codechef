@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1441554576 source:/Users/saranjan/workspace/codechef/segmenttree/main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<time.h>
+
+1441554778 source:/Users/saranjan/workspace/codechef/segmenttree/test.cpp
+	<iostream>
+

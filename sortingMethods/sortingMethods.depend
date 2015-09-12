@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441709630 source:/Users/saranjan/workspace/codechef/sortingMethods/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdio>
+

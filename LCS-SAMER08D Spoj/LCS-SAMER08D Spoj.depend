@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441659494 source:/Users/saranjan/workspace/codechef/LCS-SAMER08D Spoj/main.cpp
+	<iostream>
+	<string>
+	<vector>
+

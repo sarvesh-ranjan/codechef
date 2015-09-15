@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442297460 source:/Users/saranjan/workspace/codechef/CubeIVCodeJam/main.cpp
+	<iostream>
+	<list>
+	<vector>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1443126058 source:/Users/saranjan/Downloads/pangrams/main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<cstring>
+	<iomanip>
+	<map>
+

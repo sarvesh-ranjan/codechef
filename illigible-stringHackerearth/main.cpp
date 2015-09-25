@@ -9,8 +9,9 @@ void solve(){
 	int k;
 	cin>>n;
 	cin>>k;
-	std::vector< std::pair<int, int> > equal;
-	std::vector< std::pair<int, int> > notequal;
+
+    vector arr(k);
+    vector brr(k);
 	std::string s;
 	int a;
 	int b;

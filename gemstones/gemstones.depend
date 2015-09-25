@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1443132657 source:/Users/saranjan/Downloads/gemstones/main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<map>
+

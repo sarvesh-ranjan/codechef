@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1443128932 source:/Users/saranjan/Downloads/gameOfThrones1/main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442522526 source:/Users/saranjan/workspace/codechef/KingdomofMonkeysHE/main.cpp
+	<iostream>
+	<list>
+	<vector>
+

@@ -11,7 +11,7 @@ int main()
     for(j=1; j<=t; j++){
         int n;
         cin>>n;
-        long long ans= (long long)pow(3+ sqrt(5), n);
+        long long ans= (long long)pow(3+ sqrt(5), n);St
         int a=ans%10;
         ans/=10;
         int b=ans%10;

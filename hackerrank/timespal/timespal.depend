@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443367776 source:/Users/saranjan/workspace/codechef/hackerrank/timespal/main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1443430361 source:/Users/saranjan/workspace/codechef/hackerrank/monkandpoweroftime/main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<queue>
+

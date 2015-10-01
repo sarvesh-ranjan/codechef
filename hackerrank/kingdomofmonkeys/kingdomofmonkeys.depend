@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443521792 source:/Users/saranjan/workspace/codechef/hackerrank/kingdomofmonkeys/main.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+

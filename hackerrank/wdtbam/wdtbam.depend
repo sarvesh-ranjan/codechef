@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1443963478 source:/Users/saranjan/workspace/codechef/hackerrank/wdtbam/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+	<cstdio>
+	<math.h>
+

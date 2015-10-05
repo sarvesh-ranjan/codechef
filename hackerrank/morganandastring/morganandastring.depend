@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1444039405 source:/Users/saranjan/workspace/codechef/hackerrank/morganandastring/main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<queue>
+	<stack>
+

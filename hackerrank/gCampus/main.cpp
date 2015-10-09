@@ -93,3 +93,6 @@ void dijkstra(int s, int size, unsigned int **graph)
     }
     cout << endl << endl;
 }
+int main(){
+    dijkstra();
+}

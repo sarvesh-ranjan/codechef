@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444373355 source:/Users/saranjan/workspace/codechef/hackerrank/gCubeapaca/main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

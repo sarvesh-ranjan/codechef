@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444206777 source:/Users/saranjan/workspace/codechef/hackerrank/SUBSUMS/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1444376533 source:/Users/saranjan/workspace/codechef/hackerrank/gCampus/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<queue>
+
